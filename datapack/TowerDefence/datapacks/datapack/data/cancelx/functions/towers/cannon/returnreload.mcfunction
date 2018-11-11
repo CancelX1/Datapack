@@ -1,0 +1,1 @@
+scoreboard players set @e[tag=Cannon] shot 0

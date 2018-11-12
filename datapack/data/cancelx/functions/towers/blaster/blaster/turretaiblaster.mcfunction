@@ -1,0 +1,1 @@
+execute at @e[tag=Blaster] run tp @e[tag=Blaster,distance=..1] ~ ~ ~ facing entity @e[type=!player,type=!item,type=!armor_stand,distance=..10,type=!minecraft:experience_orb,type=!villager,type=!minecraft:fireball,limit=1,sort=nearest] feet
